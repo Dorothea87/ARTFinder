@@ -17,7 +17,7 @@ a {
   border-radius: 2px;
 }
 
-a :hover {
+a:hover {
   border: #263451 2px;
   border-radius: 2px;
 }
