@@ -3,9 +3,21 @@ styling for ARTFinder website
 */
 
 body {
-background-color: #B1C8CD;
+  background-color: #b1c8cd;
 }
 
 nav {
   background-color: #263451;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  border: #b1c8cd;
+  border-radius: 2px;
+}
+
+a :hover {
+  border: #263451 2px;
+  border-radius: 2px;
 }
